@@ -1,0 +1,4 @@
+<!ELEMENT emp (id,name,sal)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT sal (#PCDATA)>

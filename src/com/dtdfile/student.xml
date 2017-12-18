@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Student SYSTEM "std.dtd" >
+<Student>
+<roll></roll>
+<name></name>
+<marks>
+<hindi></hindi>
+<english></english>
+<math></math>
+</marks>
+</Student>

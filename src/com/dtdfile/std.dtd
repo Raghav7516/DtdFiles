@@ -1,0 +1,7 @@
+<!ELEMENT Student (roll,name,marks)>
+<!ELEMENT marks (hindi,english,math)>
+<!ELEMENT roll (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT hindi (#PCDATA)>
+<!ELEMENT english (#PCDATA)>
+<!ELEMENT math (#PCDATA)>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emp xmlns="http://www.example.org/emp" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/emp emp.xsd ">
+  <eid>0</eid>
+  <ename>ename</ename>
+  <sal>0.0</sal>
+</emp>

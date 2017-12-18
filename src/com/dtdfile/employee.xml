@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE emp SYSTEM "emp.dtd" >
+<emp>
+  <id></id>
+  <name></name>
+  <sal></sal>
+</emp>
